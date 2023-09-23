@@ -19,7 +19,7 @@ namespace Button
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Привет";
+            label1.Text = "Пока";
         }
     }
 }
